@@ -7,6 +7,7 @@ import cv2
 import tqdm
 import time
 import scipy.misc
+import matplotlib as plb
 
 #生成验证码
 characters = string.digits + string.ascii_uppercase
