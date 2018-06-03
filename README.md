@@ -1,2 +1,3 @@
 # tensorflow_test
-#这是一个小测试
+TensorFlow + Keras深度学习人工智能实践应用
+林大贵 著
